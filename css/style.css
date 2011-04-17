@@ -1,0 +1,10 @@
+/*
+x = location - radius = 580 - 73 = 507
+y = location + 42? = 293 - 73 = 220
+*/
+
+#canvas {
+	background-image:url('../images/shootArea.png');
+	background-repeat: no-repeat;
+	background-position: 507px 220px; 
+}
