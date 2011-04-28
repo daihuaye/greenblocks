@@ -1,3 +1,5 @@
+Developer: Daihua Ye
+
 The idea of the game is from blosics 2, but the blosics 2 is created in flash. I want to make it in javascript.
 
 In the code, the physical engine is box2d, which is already widely used in gaming development, such angry bird. 
