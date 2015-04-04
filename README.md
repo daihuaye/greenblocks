@@ -5,7 +5,7 @@ In the code, the physical engine is box2d, which is already widely used in gamin
 
 The game is about hurling balls at blocks to satisfy your primitive urge for destruction.
 
-You can find blosics 2 in here: http://jayisgames.com/games/blosics-2/
+You can find blosics 2 in [here](http://jayisgames.com/games/blosics-2/)
 
 This game is created for fun.
 
